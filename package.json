@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "dev": "gatsby new"
+    },
+    "devDependencies": {
+        "gatsby-cli": "^2.5.9"
+    }
+}
